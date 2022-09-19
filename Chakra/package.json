@@ -1,0 +1,33 @@
+{
+  "name": "chakra-examples",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/icons": "2.0.3",
+    "@chakra-ui/react": "2.2.3",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "framer-motion": "6.4.3",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
